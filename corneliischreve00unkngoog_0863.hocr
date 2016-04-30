@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corneliischreve00unkngoog_0863.png"; bbox 0 0 685 1223; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 76 92 659 181">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 76 92 659 181">
+     <span class='ocr_line' id='line_1_1' title="bbox 98 92 659 117; baseline -0.023 0"><span class='ocrx_word' id='word_1_1' title='bbox 98 92 659 117; x_wconf 41' lang='lat' dir='ltr'>ss-ss-——v———ae—’q</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 76 130 310 154; baseline -0.03 -3"><span class='ocrx_word' id='word_1_2' title='bbox 76 141 80 145; x_wconf 83' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 104 130 310 154; x_wconf 55' lang='lat' dir='ltr'>Subjunafferbommindu.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 150 153 513 181; baseline -0.025 -5"><span class='ocrx_word' id='word_1_4' title='bbox 150 161 190 181; x_wconf 69' lang='lat' dir='ltr'>Sing.</span> <span class='ocrx_word' id='word_1_5' title='bbox 287 157 330 173; x_wconf 69' lang='lat' dir='ltr'>nm.</span> <span class='ocrx_word' id='word_1_6' title='bbox 399 177 402 179; x_wconf 21' lang='grc' dir='ltr'><em>Β</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 438 153 490 178; x_wconf 63' lang='lat'>1’131121.</span> <span class='ocrx_word' id='word_1_8' title='bbox 510 174 513 177; x_wconf 23' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 103 283 334 325">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 103 283 334 325">
+     <span class='ocr_line' id='line_1_4' title="bbox 103 283 329 308; baseline -0.027 -5"><span class='ocrx_word' id='word_1_9' title='bbox 103 287 178 308; x_wconf 57' lang='lat' dir='ltr'>Optamus</span> <span class='ocrx_word' id='word_1_10' title='bbox 183 285 261 301; x_wconf 75' lang='lat' dir='ltr'>Verborum</span> <span class='ocrx_word' id='word_1_11' title='bbox 267 283 281 298; x_wconf 77' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_12' title='bbox 285 284 307 305; x_wconf 53' lang='lat' dir='ltr'>gf.</span> <span class='ocrx_word' id='word_1_13' title='bbox 327 302 329 304; x_wconf 21' lang='lat' dir='ltr'>q</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 291 309 334 325; baseline -0.023 0"><span class='ocrx_word' id='word_1_14' title='bbox 291 309 334 325; x_wconf 66' lang='lat' dir='ltr'>naal.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 91 183 661 1156">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 91 183 661 1156">
+     <span class='ocr_line' id='line_1_6' title="bbox 91 183 661 1156; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 91 183 661 1156; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
